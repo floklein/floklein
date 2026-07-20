@@ -52,8 +52,10 @@ I lead the frontend team at [Dametis](https://dametis.com/), building a greentec
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=floklein&show_icons=true&theme=transparent&hide_border=true&rank_icon=github)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=floklein&layout=compact&theme=transparent&hide_border=true)
+![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=floklein&theme=transparent)
+![Top languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=floklein&theme=transparent)
+
+![Contribution graph](https://ghchart.rshah.org/floklein)
 
 </div>
 
