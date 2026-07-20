@@ -41,7 +41,7 @@ I lead the frontend team at [Dametis](https://dametis.com/), building a greentec
 | 🫂 **[Nooli](https://apps.apple.com/fr/app/nooli-compagnon-anorexie/id6784231162) & [Hungi](https://apps.apple.com/fr/app/hungi/id6780053204)** | Two iOS apps for people living with anorexia: an emotional companion, and an AI that turns your fridge & mood into recipes. | React Native, Expo, AI SDK, Skia |
 | 🏥 **[Chef](https://chef.florentklein.dev/)** | SaaS automating hospital meal management, within nutritional standards and patient constraints. | Next.js, Tailwind, Playwright |
 | 🎲 **[Ambiance](https://ambiance.florentklein.dev/)** | AI app that listens to your tabletop RPG session and plays the right music. ([source](https://github.com/floklein/ambiance)) | Vite, Hono, tRPC, Gemini |
-| 📸 **[Terra TCG](https://github.com/floklein/terra)** | Mobile trading card game where you capture animals by photographing them. | React Native, Expo, AI |
+| 📸 **Terra TCG** | Mobile trading card game where you capture animals by photographing them. | React Native, Expo, AI |
 | ✉️ **[Courrier](https://github.com/floklein/courrier)** | Minimalist mail client for macOS and Windows. | Electron, Vite, TanStack |
 | 🧠 **[great minds](https://greatminds.florentklein.dev/)** | Real-time game to test how in-sync you are with your friends. ([source](https://github.com/floklein/greatminds)) | WebSocket, Colyseus, Motion |
 | 🎨 **[Artguessr](https://artguessr.florentklein.dev/)** | Educational game: guess the date of a work of art. ([source](https://github.com/floklein/artguessr)) | Next.js, Tailwind |
