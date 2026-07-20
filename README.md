@@ -29,9 +29,9 @@ I lead the frontend team at [Dametis](https://dametis.com/), building a greentec
 ![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?style=flat-square&logo=drizzle&logoColor=black)
 ![AI SDK](https://img.shields.io/badge/AI_SDK-000000?style=flat-square&logo=vercel&logoColor=white)
 
-- 🧑‍💼 **Lead Frontend @ Dametis** — managing a team of 6 devs, driving technical decisions, QA & DX processes
+- 🧑‍💼 **Lead Frontend @ Dametis**: managing a team of 6 devs, driving technical decisions, QA & DX processes
 - 📱 Shipping **iOS apps** with React Native & Expo
-- 🤖 Building **AI-powered products** — my [portfolio](https://florentklein.dev/) even has its own AI assistant
+- 🤖 Building **AI-powered products**: my [portfolio](https://florentklein.dev/) even has its own AI assistant
 
 ## 🚀 Featured projects
 
@@ -40,13 +40,13 @@ I lead the frontend team at [Dametis](https://dametis.com/), building a greentec
 | 🎬 **[MacGuffin](https://apps.apple.com/fr/app/macguffin/id6761733673)** | Discover the best movies playing in theaters near you, and book your seat. | React Native, Expo, Drizzle, PostgreSQL |
 | 🫂 **[Nooli](https://apps.apple.com/fr/app/nooli-compagnon-anorexie/id6784231162) & [Hungi](https://apps.apple.com/fr/app/hungi/id6780053204)** | Two iOS apps for people living with anorexia: an emotional companion, and an AI that turns your fridge & mood into recipes. | React Native, Expo, AI SDK, Skia |
 | 🏥 **[Chef](https://chef.florentklein.dev/)** | SaaS automating hospital meal management, within nutritional standards and patient constraints. | Next.js, Tailwind, Playwright |
-| 🎲 **[Ambiance](https://ambiance.florentklein.dev/)** | AI app that listens to your tabletop RPG session and plays the right music. — [source](https://github.com/floklein/ambiance) | Vite, Hono, tRPC, Gemini |
+| 🎲 **[Ambiance](https://ambiance.florentklein.dev/)** | AI app that listens to your tabletop RPG session and plays the right music. ([source](https://github.com/floklein/ambiance)) | Vite, Hono, tRPC, Gemini |
 | 📸 **[Terra TCG](https://github.com/floklein/terra)** | Mobile trading card game where you capture animals by photographing them. | React Native, Expo, AI |
 | ✉️ **[Courrier](https://github.com/floklein/courrier)** | Minimalist mail client for macOS and Windows. | Electron, Vite, TanStack |
-| 🧠 **[great minds](https://greatminds.florentklein.dev/)** | Real-time game to test how in-sync you are with your friends. — [source](https://github.com/floklein/greatminds) | WebSocket, Colyseus, Motion |
-| 🎨 **[Artguessr](https://artguessr.florentklein.dev/)** | Educational game: guess the date of a work of art. — [source](https://github.com/floklein/artguessr) | Next.js, Tailwind |
-| 💬 **[K3 Chat](https://cloneathon.t3.chat/)** | Multi-modal AI chat with model picker. — [source](https://github.com/floklein/k3chat) | Next.js, Convex |
-| 🌐 **[florentklein.dev](https://florentklein.dev/)** | This portfolio, with its AI assistant. — [source](https://github.com/floklein/florentklein) | Next.js, AI SDK, GPT-5 |
+| 🧠 **[great minds](https://greatminds.florentklein.dev/)** | Real-time game to test how in-sync you are with your friends. ([source](https://github.com/floklein/greatminds)) | WebSocket, Colyseus, Motion |
+| 🎨 **[Artguessr](https://artguessr.florentklein.dev/)** | Educational game: guess the date of a work of art. ([source](https://github.com/floklein/artguessr)) | Next.js, Tailwind |
+| 💬 **[K3 Chat](https://cloneathon.t3.chat/)** | Multi-modal AI chat with model picker. ([source](https://github.com/floklein/k3chat)) | Next.js, Convex |
+| 🌐 **[florentklein.dev](https://florentklein.dev/)** | This portfolio, with its AI assistant. ([source](https://github.com/floklein/florentklein)) | Next.js, AI SDK, GPT-5 |
 
 ## 📈 Stats
 
@@ -61,6 +61,6 @@ I lead the frontend team at [Dametis](https://dametis.com/), building a greentec
 
 <div align="center">
 
-💬 Want to know more? Ask the AI assistant on **[florentklein.dev](https://florentklein.dev/)** — it knows everything about me.
+💬 Want to know more? Ask the AI assistant on **[florentklein.dev](https://florentklein.dev/)**, it knows everything about me.
 
 </div>
