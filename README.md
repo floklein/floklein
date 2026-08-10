@@ -43,8 +43,8 @@ I lead the frontend team at [Dametis](https://dametis.com/), building a greentec
 | 🎲 **[Ambiance](https://ambiance.florentklein.dev/)** | AI app that listens to your tabletop RPG session and plays the right music. ([source](https://github.com/floklein/ambiance)) | Vite, Hono, tRPC, Gemini |
 | 📸 **Terra TCG** | Mobile trading card game where you capture animals by photographing them. | React Native, Expo, AI |
 | ✉️ **[Courrier](https://github.com/floklein/courrier)** | Minimalist mail client for macOS and Windows. | Electron, Vite, TanStack |
-| 🧠 **[great minds](https://greatminds.florentklein.dev/)** | Real-time game to test how in-sync you are with your friends. ([source](https://github.com/floklein/greatminds)) | WebSocket, Colyseus, Motion |
-| 🎨 **[Artguessr](https://artguessr.florentklein.dev/)** | Educational game: guess the date of a work of art. ([source](https://github.com/floklein/artguessr)) | Next.js, Tailwind |
+| 🧠 **[Great Minds](https://greatminds.florentklein.dev/) & [Artguessr](https://artguessr.florentklein.dev/)** | Two web games: test how in-sync you are with your friends in real time, and guess the date of works of art. ([source](https://github.com/floklein/greatminds), [source](https://github.com/floklein/artguessr)) | WebSocket, Colyseus, Next.js, Motion |
+| 🧰 **[NatUI](https://natui.dev/) & [git-agents](https://www.npmjs.com/package/git-agents)** | Two open source tools: a framework for building native desktop apps with React, and a CLI that syncs your AI skills and instructions via git. ([source](https://github.com/floklein/natui), [source](https://github.com/floklein/git-agents)) | React, SwiftUI, WinUI 3, TypeScript |
 | 💬 **[K3 Chat](https://cloneathon.t3.chat/)** | Multi-modal AI chat with model picker. ([source](https://github.com/floklein/k3chat)) | Next.js, Convex |
 | 🌐 **[florentklein.dev](https://florentklein.dev/)** | This portfolio, with its AI assistant. ([source](https://github.com/floklein/florentklein)) | Next.js, AI SDK, GPT-5 |
 
