@@ -2,7 +2,7 @@
 
 # Hey, I'm Florent 👋
 
-**Lead Frontend · React expert · passionate builder**
+**Frontend Lead · React expert · passionate builder**
 
 I lead the frontend team at [Dametis](https://dametis.com/), building a greentech SaaS that helps companies reduce their environmental impact.
 
